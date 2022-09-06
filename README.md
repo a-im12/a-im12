@@ -6,6 +6,6 @@
 </div>
 <div>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-im12&langs_count=3&hide=Jupyter Notebook&layout=compact" />
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-im12&layout=compact&theme=dracula" />
   </a>
 </div>
