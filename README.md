@@ -6,6 +6,6 @@
   </td>
   <td border="0">
   <a href="https://github.com/anuraghazra/convoychat">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-im12&layout=compact&theme=dracula" />
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-im12&layout=compact&theme=dracula" />
   </a>
 </div>
