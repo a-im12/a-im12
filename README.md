@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div style="float:left;">
-  <table border="0">
+  <table border="12">
     <tr>
       <td>
         <a href="https://github.com/anuraghazra/github-readme-stats">
