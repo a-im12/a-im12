@@ -1,3 +1,9 @@
+<style>
+  .page_link{
+    font-size: 100%;
+  }
+</style>
+
 ### Hi there 👋
 <div float="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -7,6 +13,6 @@
     <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-im12&layout=compact&theme=dracula" />
   </a>
 </div>
-<div align="center" >
-  <a href="https://a-im12.github.io/work-history/" size="100%">My portfolio Page!!</a>
+<div align="center" class="page_link">
+  <a href="https://a-im12.github.io/work-history/">My portfolio Page!!</a>
 </div>
