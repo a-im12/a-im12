@@ -7,6 +7,6 @@
     <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-im12&layout=compact&theme=dracula" />
   </a>
 </div>
-<div style="text-align: center;">
+<div align="center">
   <a href="https://a-im12.github.io/work-history/">My portfolio Page!!</a>
 </div>
