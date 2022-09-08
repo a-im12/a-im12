@@ -8,5 +8,5 @@
   </a>
 </div>
 <div style="text-align: center;">
-  [My portfolio Page!!](https://a-im12.github.io/work-history/)
+  <a href="https://a-im12.github.io/work-history/">My portfolio Page!!</a>
 </div>
