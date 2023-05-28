@@ -5,7 +5,9 @@
     <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=a-im12&theme=onedark&show_icons=ture" />
   </p>
 </div>
-![github-contribution-grid-snake](https://raw.githubusercontent.com/a-im12/a-im12/main/img/snake.svg)
+<img src="https://raw.githubusercontent.com/a-im12/a-im12/main/img/snake.svg">
+<!-- ![github-contribution-grid-snake](https://raw.githubusercontent.com/a-im12/a-im12/main/img/snake.svg) -->
+
 <br>
 <br>
 <div align="center">
