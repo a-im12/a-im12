@@ -1,11 +1,9 @@
 ### Hi there 👋
-<div float="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=a-im12&count_private=true&show_icons=true&theme=dark" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-im12&layout=compact&theme=dracula" />
-  </a>
+<div>
+  <p align="left"> 
+    <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username={a-im12}&layout=compact&show_icons=true&theme=onedark" />
+    <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username={a-im12}&theme=onedark&show_icons=ture" />
+  </p>
 </div>
 <br>
 <br>
