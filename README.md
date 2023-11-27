@@ -5,8 +5,11 @@
     <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=a-im12&theme=onedark&show_icons=ture" />
   </p>
 </div>
-<img src="https://raw.githubusercontent.com/a-im12/a-im12/main/img/snake.svg">
-<!-- ![github-contribution-grid-snake](https://raw.githubusercontent.com/a-im12/a-im12/main/img/snake.svg) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/a-im12/a-im12/master/img/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/a-im12/a-im12/master/img/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/a-im12/a-im12/master/img/snake.svg">
+</picture>
 
 <br>
 <br>
